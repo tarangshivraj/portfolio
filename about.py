@@ -31,9 +31,8 @@ def app():
 	# 	st.write("")
 	st.title("About Me")
 	# Spawn a new Ace editor
-	content = st_ace(value=code)
 	# Display editor's content as you type
-	content
+# 	content
 	st.header("Technologies I am familiar with")
 	# ------------------ Full Stack
 	# Frontend
