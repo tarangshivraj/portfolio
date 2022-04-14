@@ -1,5 +1,4 @@
 import streamlit as st
-import awards
 import about
 import experience
 import education
